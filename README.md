@@ -1,1 +1,1 @@
-# Test 1 JAVAS
+# Test 1 JAVASCRIPT
